@@ -1,0 +1,13 @@
+(Provided BY PirateCity.NET)
+
+"INSTRUCTIONS"
+
+- Turn off internet connection (Highly Recommended)
+- install VMware Workstation Pro 15.1.0 trial setup.exe (Provided)
+- Run the program & use provided "keygen.exe" file to generate valid license key.
+- Register Workstation Pro 15 in offline mode "IMPORTANT"
+- Disable “automatic check for updates” "Recommended"
+- Go to Menu “Edit” > “Preferences” > “Updates” > uncheck > “Software Updates” feature.
+- Block program via windows firewall outbound rules "Highly Recommended"
+
+All done, Enjoy ! VMware Workstation Pro 15.1.0 full version for free.. :D
